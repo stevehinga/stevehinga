@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Steve Hinga
 
-<!--
-**stevehinga/stevehinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Python Enthusiast | Minimalistic Tech**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+I'm passionate about building **clean, scalable web applications** using Python and modern JavaScript frameworks.  
+Focused on **efficiency, maintainability, and user-friendly designs**.
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Steve Hinga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevehinga&show_icons=true&theme=radical&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevehinga&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🚀 Projects
+- [Dexnet](https://github.com/stevehinga/Dexnet) – Networked Python project  
+- [steve_hinga](https://github.com/stevehinga/steve_hinga) – Personal portfolio/experiments  
+
+---
+
+## 📫 Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kamaaslife?igsh=eHcxc3M2YXZiODRp)
