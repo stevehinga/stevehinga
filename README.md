@@ -1,5 +1,5 @@
 # Hi 👋, I'm Steve Hinga
-![Developer at work](https://media.giphy.com/media/26xBMu5kjwZ02oR0U/giphy.gif)
+![Terminal Coding](https://media.giphy.com/media/3o7aCVzMnVd0YriUEw/giphy.gif)
 
 **Full-Stack Developer | Web & Application Development | Modern Tech**
 
