@@ -1,5 +1,4 @@
 # Hi 👋, I'm Steve Hinga  
-![Terminal Animation](https://media.tenor.com/images/XXXXXXX/tenor.gif)
 
 **Full-Stack Developer | Web & Application Development | Modern Tech**
 
