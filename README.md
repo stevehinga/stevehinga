@@ -1,12 +1,14 @@
 # Hi 👋, I'm Steve Hinga
+![coding gif](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-**Full-Stack Developer | Python Enthusiast | Minimalistic Tech**
+**Full-Stack Developer | Web & Application Development | Modern Tech**
 
 ---
 
 ## 💻 About Me
-I'm passionate about building **clean, scalable web applications** using Python and modern JavaScript frameworks.  
-Focused on **efficiency, maintainability, and user-friendly designs**.
+- Passionate about building **clean, scalable web apps**  
+- Experienced in **Python, Django, Flask, JS, React**  
+- Focused on **efficiency, maintainability, and user-friendly designs**
 
 ---
 
@@ -32,10 +34,13 @@ Focused on **efficiency, maintainability, and user-friendly designs**.
 ---
 
 ## 🚀 Projects
-- [Dexnet](https://github.com/stevehinga/Dexnet) – Networked Python project  
-- [steve_hinga](https://github.com/stevehinga/steve_hinga) – Personal portfolio/experiments  
+- 💻 [Dexnet](https://github.com/stevehinga/Dexnet) – Networked Python project  
+- 🌐 [steve_hinga](https://github.com/stevehinga/steve_hinga) – Personal portfolio/experiments  
+
 
 ---
 
 ## 📫 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kamaaslife?igsh=eHcxc3M2YXZiODRp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevehinga)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
