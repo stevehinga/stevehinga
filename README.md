@@ -1,44 +1,45 @@
-# Hi 👋, I'm Steve Hinga  
+# Steve's Terminal Portfolio 💻
 
-**Full-Stack Developer | Web & Application Development | Modern Tech**
-
----
-
-## 💻 About Me
-- Passionate about building **clean, scalable web applications**  
-- Experienced in **Python, Django, Flask, JavaScript, React**  
-- Focused on **efficiency, maintainability, and user-friendly designs**
+Welcome to my **interactive, terminal-style portfolio**! This project showcases my skills, projects, and experience using a Linux-inspired command-line interface built with modern web technologies.
 
 ---
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 🔹 Features
+
+- **Terminal Interface**: Simulates a Linux terminal for an immersive portfolio experience.
+- **Dynamic Greetings**: Browser tab title rotates messages like a real terminal.
+- **Interactive Commands**:
+  - `about` – Professional background and expertise.
+  - `skills` – Core technical skills.
+  - `projects` – Featured projects with clickable links.
+  - `contact` – Ways to reach me.
+  - `resume` – Download my CV.
+  - `funfact` – Random personal tech insights.
+  - `help` – List of all available commands.
+  - `clear` – Clear the terminal screen.
+- **Responsive Design**: Works beautifully on desktop and mobile devices.
+- **Animated UX**: Smooth transitions and simulated typing effects with Framer Motion.
 
 ---
 
+## 🔹 Tech Stack
 
-## 📊 GitHub Stats
-![Steve Hinga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevehinga&show_icons=true&theme=dracula&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevehinga&layout=compact&theme=dracula&hide_border=true)
-
----
-
-## 🚀 Projects
-- 💻 [Dexnet](https://github.com/stevehinga/Dexnet) – Networked project  
-- 🌐 [steve_hinga](https://github.com/stevehinga/steve_hinga) – Portfolio & experiments  
+- **Frontend**: React, TypeScript, Tailwind CSS, Framer Motion
+- **Routing & State**: React Router, React Query
+- **UI Enhancements**: Custom terminal components, Toaster notifications, Tooltip provider
+- **Fonts**: Ubuntu Mono for authentic terminal feel
+- **Build Tools**: Vite (or Next.js if preferred)
 
 ---
 
-## 📫 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kamaaslife?igsh=eHcxc3M2YXZiODRp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevehinga)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+## 🔹 Commands Overview
+
+```bash
+help      # Show all available commands
+about     # Learn about me and my experience
+skills    # View my technical expertise
+projects  # Browse my featured projects
+contact   # Get in touch with me
+resume    # Download my resume
+funfact   # Fun technical insight or tip
+clear     # Clear the terminal
