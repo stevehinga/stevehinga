@@ -6,7 +6,7 @@
 
 ## 💻 About Me
 - Passionate about building **clean, scalable web applications**  
-- Experienced in **Python, Django, Flask, JavaScript, React**  
+- Experienced in **Python, Django, JavaScript, Typescript**  
 - Focused on **efficiency, maintainability, and user-friendly designs**
 
 ---
